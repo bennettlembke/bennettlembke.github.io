@@ -1,0 +1,18 @@
+header,footer {background-color: rgb(0, 255, 60);}
+p,ul,li {font-size: 20px;}
+a:link {
+    color: red;
+
+}
+a:visited {
+    color: rgb(225, 255, 0);
+
+}
+a:hover {
+    color: rgb(248, 242, 242);
+
+}
+a:active {
+    color: rgb(255, 0, 195);
+
+}
