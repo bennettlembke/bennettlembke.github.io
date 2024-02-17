@@ -1,0 +1,19 @@
+/*Bennett Lembke
+02/15/2024
+*/
+.intro {
+
+}
+.highlight {
+
+}
+.alert {
+    background-color: darkgreen;
+    color:chartreuse;
+    font-weight: bold;
+    padding: 5px;
+}
+.red {
+    background-color: red;
+    color: yellow;
+}
