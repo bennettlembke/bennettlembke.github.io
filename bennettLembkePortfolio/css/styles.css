@@ -1,0 +1,19 @@
+html{
+    background-color: purple;
+    color: goldenrod;
+}
+
+a:link {
+    color: gold;
+}
+
+a:visited {
+    color: yellow
+}
+
+a:hover {
+    color: white;
+}
+a:active {
+    color: black;
+}
