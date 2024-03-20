@@ -1,0 +1,62 @@
+/*Bennett Lembke March, 19th 2024*/
+
+@font-face {
+	font-family: 'roboto_condenseditalic';
+	src: url('../fonts/RobotoCondensed-Italic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}	
+#outerwrapper {	
+	width: 70%;
+	background: rgba(243,205,170, 0.4);
+	border-radius: 15%;
+	margin: 0% auto;
+}
+
+body{
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-image: url(/images/jewelry.jpg)
+}
+
+footer{
+	font-size: 1em;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+main{
+	background: linear-gradient(#ffffff, #f0f9e6);
+	padding: 10px;
+	margin: 20px;
+	border-radius: 2em;
+	font-size: 1.25em;
+	font-family: Tahoma, Verdana,  sans-serif;
+}
+
+header img{
+	float: left;
+	border-radius: 50%;
+}
+
+.addrightmargin{
+	margin-right: 10%;
+}
+
+nav ul{
+	list-style-type: none;
+	font-size: 1.5em;
+	clear: both;
+}
+h1{
+	font-size: 4em;
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+h2{
+	font-family: 'roboto_condenseditalic';
+	font-size: 2em;
+	font-style: italic;
+}
